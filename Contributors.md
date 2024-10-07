@@ -1,4 +1,9 @@
 # Contributors
+#### Name: [Thai Nguyen](https://github.com/d2blepeace)
+- Place: San Jose, California, USA
+- Bio: Undergraduate Student at San Jose State University
+- GitHub: [Thai Nguyen](https://github.com/d2blepeace)
+
 
 #### Name: [Udit Mittal](https://github.com/udit-001)
 - Place: Delhi, India
